@@ -26,7 +26,7 @@ Junior DevOps / Linux Administrator building things in a homelab
 
 ### Contribution Graph
 
-[![Botipy's github activity graph](https://raw.githubusercontent.com/Botipy/Botipy/output/github-contribution-grid-snake.svg)](https://github.com/Botipy/Botipy)
+[![Botipy's github activity graph](https://raw.githubusercontent.com/Botipy/Botipy/output/github-contribution-grid-snake-dark.svg?v=1)](https://github.com/Botipy/Botipy)
 
 <br>
 
