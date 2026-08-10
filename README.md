@@ -14,10 +14,6 @@ Junior DevOps / Linux Administrator building things in a homelab
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 <br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Botipy&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Botipy&layout=compact&theme=dark&hide_border=true" width="48%" />
-
 <br><br>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Botipy&theme=dark&hide_border=true)
