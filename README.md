@@ -1,28 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Botipy+%F0%9F%91%8B" alt="Typing SVG" />
-
-Junior DevOps / Linux Administrator building things in a homelab
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg"><img src="assets/header-dark.svg" width="100%" alt="Botipy"></picture>
 
 <br>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-
-<br>
-<br><br>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Botipy&theme=dark&hide_border=true)
-
-<br>
-
-### Contribution Graph
-
-[![Botipy's github activity graph](https://raw.githubusercontent.com/Botipy/Botipy/output/github-contribution-grid-snake-dark.svg?v=1)](https://github.com/Botipy/Botipy)
+<a href="https://github.com/Botipy/spotify-widget"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-01-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/project-01-light.svg"><img src="assets/project-01-dark.svg" width="33%" alt="spotify-widget"></picture></a><a href="https://github.com/Botipy/roman-clip"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-02-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/project-02-light.svg"><img src="assets/project-02-dark.svg" width="33%" alt="roman-clip"></picture></a><a href="https://github.com/Botipy/claude-usage-tracker"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-03-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/project-03-light.svg"><img src="assets/project-03-dark.svg" width="33%" alt="claude-usage-tracker"></picture></a>
 
 <br>
 
@@ -30,8 +12,6 @@ Junior DevOps / Linux Administrator building things in a homelab
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/botipy1337)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/298464220830236682)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/botipy1337)
-
-<br>
 
 **Thanks for stopping by! ⭐**
 
